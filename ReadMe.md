@@ -2,7 +2,7 @@
 
 <br>
 <img src="https://miro.medium.com/v2/resize:fit:1080/1*fz-rjYPPRlGEMdTI-RLbDg.png">
-<br> <br>
+<br> 
 
 This is an implementation of K-means clustering algorithm in Python. K-means is a commonly used unsupervised machine learning algorithm that aims to group similar data points into a given number of clusters. The code defines a class KMeans with methods to fit, predict, and return cluster centroids.
 
